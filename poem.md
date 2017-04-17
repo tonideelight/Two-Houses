@@ -1,9 +1,9 @@
-The Two Houses
+## The Two Houses
 By Thomas Hardy
 
+:house: :house:
 
-
-     In the heart of night,
+    In the *heart* of night,
     When farers were not near,
     The left house said to the house on the right,
     "I have marked your rise, O smart newcomer here."
@@ -73,4 +73,4 @@ By Thomas Hardy
     Each in his misery, irk, or joy,
     And print on thee their presences as on me."
     
-    http://www.public-domain-poetry.com/thomas-hardy/two-houses-17163
+   **http://www.public-domain-poetry.com/thomas-hardy/two-houses-17163**
