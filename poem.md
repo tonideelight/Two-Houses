@@ -1,9 +1,9 @@
 ## The Two Houses
-By Thomas Hardy
+*By Thomas Hardy
 
 :house: :house:
 
-    In the *heart* of night,
+    In the heart of night,
     When farers were not near,
     The left house said to the house on the right,
     "I have marked your rise, O smart newcomer here."
