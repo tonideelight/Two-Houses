@@ -1,5 +1,5 @@
 ## The Two Houses
-*By Thomas Hardy
+*-Thomas Hardy*
 
 :house: :house:
 
